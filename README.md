@@ -1,11 +1,6 @@
-<div align="center">
-	<div>
-	< src="https://zupimages.net/viewer.php?id=23/50/cmn3.png">
-	</div>
-	<div>
-	<div>
-    	</div> 
-    	<div>
+<p align="center">
+  <img src="https://zupimages.net/viewer.php?id=23/50/cmn3.png" />
+</p>
 
 ### Comment fonctionne une machine Virtuelle
 --------------
