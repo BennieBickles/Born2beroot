@@ -252,15 +252,13 @@ Cron est un programme qui permet de planifier l'exécution de commandes ou de sc
 expliquer que vous avez effectuer les manipulations suivantes
 ```
 sudo crontab -u root -e
-
+```
 ### Script toutes les 30 secs 
 remplacer
 ```
 */10 * * * [path/monitoring.sh]
 ```
-
 par
-
 ```
 * * * * * /bin/bash -c ' for i in {1..X}; do YOUR_COMMANDS ; sleep Y ; done '
 ```
